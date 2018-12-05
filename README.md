@@ -10,4 +10,4 @@ This is is a test project of:
 
 3) This is also a test of packaging and committing to GIT
 
-4) This is the src of the built project, not including package.json, webpack.config.js and node_modules.
+4) This is the src of the built project, including package.json, webpack.config.js and .bablerc files (node_modules excluded, see package.json) for all packages required)
