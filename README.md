@@ -9,3 +9,5 @@ This is is a test project of:
 3) The text "Hello World!!!" is created by a &lt;Header/&gt; React Component, nested in a &lt;App/&gt; React Component.
 
 3) This is also a test of packaging and committing to GIT
+
+4) This is the src of the built project, not including package.json, webpack.config.js and node_modules.
